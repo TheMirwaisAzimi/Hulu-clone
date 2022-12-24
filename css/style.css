@@ -14,7 +14,7 @@ header {
   background-image: url(img/Luca.jpg);
   background-size: cover;
   background-position: right;
-  height: 104.4vh; }
+  height: 97.4vh; }
 
 .row {
   max-width: 1140px;
@@ -26,3 +26,7 @@ header {
 .hululogo {
   height: 70px;
   padding-left: 40px; }
+
+.navbar {
+  height: 60px;
+  width: auto; }
