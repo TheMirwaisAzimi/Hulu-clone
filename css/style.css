@@ -28,5 +28,6 @@ header {
   padding-left: 40px; }
 
 .navbar {
-  height: 60px;
-  width: auto; }
+  height: 150px;
+  width: auto;
+  background-image: linear-gradient(black, rgba(255, 255, 255, 0)); }
