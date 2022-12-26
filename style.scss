@@ -119,4 +119,19 @@ header{
     top: 52.5%;
     left: 28%;
     background-color: rgb(28, 231, 131);
+    transition: background-color 1ms;
 }
+.get-all-three:hover{
+    background-color: rgba(122, 238, 153, 0.61);
+}
+.get-all-three:active{
+    background-color: rgba(121, 226, 148, 0.271);
+}
+
+
+
+
+
+
+
+
