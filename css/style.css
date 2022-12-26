@@ -74,6 +74,9 @@ header {
   letter-spacing: normal;
   font-family: 'Rubik', sans-serif; }
 
-.espn {
-  height: 100px;
-  width: auto; }
+.big-logo {
+  position: absolute;
+  height: 133px;
+  width: 605px;
+  top: 24.5%;
+  left: 30.3%; }
