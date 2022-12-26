@@ -80,3 +80,14 @@ header {
   width: 605px;
   top: 24.5%;
   left: 30.3%; }
+
+.get-hulu {
+  position: absolute;
+  color: #fff;
+  width: 1140px;
+  top: 45%;
+  left: 33.8%;
+  font-size: 125%;
+  font-weight: 700;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif; }
