@@ -114,3 +114,14 @@ header {
 
 .get-all-three:active {
   background-color: rgba(121, 226, 148, 0.271); }
+
+.term {
+  position: absolute;
+  color: #fff;
+  width: 1140px;
+  top: 61.6%;
+  left: 47.45%;
+  font-size: 70%;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif; }
