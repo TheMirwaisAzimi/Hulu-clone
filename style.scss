@@ -35,12 +35,42 @@ header{
     width:300px;
 }
 .hululogo{
-    height: 70px;
-    padding-left: 40px;
+    height: 54px;
+    padding-left: 15px;
+    padding-top: 10px;
+    float: left;
 }
 .navbar{
     height: 150px;
     width: auto;
     background-image: linear-gradient(rgb(0, 0, 0),rgba(255, 255, 255, 0));
     
+}
+.log{
+    float: right;
+    margin-top: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.btn{
+    display: inline-block;
+    padding: 12px 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #b0afb7;
+    font-size: 70%;
+    letter-spacing: normal;
+    font-family: 'Graphik', sans-serif;
+    border-radius: 10px;
+    transition: background-color 0.4s ,border 0.2s, color 0.2s;
+}
+.btn:hover{
+    background-color: rgb(50, 56, 67);
+    color: #fff;
+}
+.btn:active{
+    background-color: rgb(66, 73, 87);
 }
