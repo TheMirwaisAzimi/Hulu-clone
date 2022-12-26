@@ -104,3 +104,19 @@ header{
     letter-spacing: normal;
     font-family: 'Albert Sans', sans-serif;
 }
+.btn1{
+    display: inline-block;
+    position: absolute;
+    padding: 17px 283px;
+    font-weight: 700;
+    text-decoration: none;
+    color:#fff;
+    font-size: 70%;
+    letter-spacing: normal;
+    font-family: 'Graphik', sans-serif;
+    border-radius: 5px;
+    transition: background-color 0.4s ,border 0.2s, color 0.2s;
+    top: 52.5%;
+    left: 28%;
+    background-color: rgb(28, 231, 131);
+}
