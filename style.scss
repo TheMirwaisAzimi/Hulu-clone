@@ -201,16 +201,24 @@ header{
 .get-both{
     position: absolute;
     color:#fff;
-    width: 1140px;
-    text-align: right;
-    top: 38%;
-    left: 6%;
+    width: 158px;
+    text-align: center;
+    top: 28%;
+    left: 71.2%;
     font-size: 76%;
     font-weight: 700;
     letter-spacing: normal;
     font-family: 'Albert Sans', sans-serif;
     text-decoration: none;
+    display: inline-block;
+    border: 2px solid;
+    padding:13px 6px;
+    border-radius: 5px;
+    
+    
+    
 }
+
 
 .r{
     position: relative;
