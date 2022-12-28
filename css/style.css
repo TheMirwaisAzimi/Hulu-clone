@@ -143,3 +143,10 @@ header {
   font-family: 'Albert Sans', sans-serif;
   border-bottom: solid 1px;
   text-decoration: none; }
+
+.ribon {
+  position: relative;
+  height: 152px;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.501);
+  top: 388%; }
