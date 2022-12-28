@@ -151,7 +151,16 @@ header {
   background-color: rgba(0, 0, 0, 0.501);
   top: 384%; }
 
+.huludis-logo {
+  position: absolute;
+  height: 100px;
+  width: auto;
+  top: 17%;
+  left: 10.1%; }
+
 .r {
+  position: relative;
   height: 152px;
   width: auto;
-  background-color: #000; }
+  background-color: rgba(0, 0, 0, 0.501);
+  top: 384%; }
