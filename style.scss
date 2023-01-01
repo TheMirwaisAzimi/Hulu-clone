@@ -216,11 +216,30 @@ header{
     border-radius: 5px;
 }
 .get-both:hover{
-    background-color: #d3d2d0bc;
+    background-color: rgba(211, 210, 208, 0.823);
     color:#000;
     transition: 0.3s;
-    transform: translateX(-2%);
+    transform: translateX(-3%);
 }
+.term2{
+    position: absolute;
+    color:rgb(161, 160, 160);
+    width: 70px;
+    text-align: center;
+    top: 62%;
+    left: 74.8%;
+    font-size: 55%;
+    font-weight: 600;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+    display: inline-block;
+    padding:0 0;
+    box-sizing: border-box;
+}
+.term2:hover{
+    text-decoration: none;    
+}
+
 
 
 .r{
