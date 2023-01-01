@@ -196,10 +196,16 @@ header {
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   border: 2px solid;
   padding: 13px 6px;
   border-radius: 5px; }
+
+.get-both:hover {
+  background-color: #d3d2d0bc;
+  color: #000;
+  transition: 0.3s;
+  transform: translateX(-2%); }
 
 .r {
   position: relative;
