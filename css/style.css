@@ -244,3 +244,15 @@ header {
   font-weight: 600;
   letter-spacing: normal;
   font-family: 'Rubik', sans-serif; }
+
+.tv {
+  position: absolute;
+  color: #fff;
+  width: 1140px;
+  top: 12%;
+  text-align: center;
+  left: 12.5%;
+  font-size: 235%;
+  font-weight: 700;
+  letter-spacing: normal;
+  font-family: 'Rubik', sans-serif; }
