@@ -225,9 +225,22 @@ header {
 .term2:hover {
   text-decoration: none; }
 
-.r {
+.include {
   position: relative;
-  height: 152px;
+  height: 1000px;
   width: auto;
-  background-color: rgba(0, 0, 0, 0.501);
+  background-color: black;
   top: 384%; }
+
+.plans {
+  position: absolute;
+  color: #00d072;
+  text-transform: uppercase;
+  width: 1140px;
+  top: 8.6%;
+  text-align: center;
+  left: 12.5%;
+  font-size: 73%;
+  font-weight: 600;
+  letter-spacing: normal;
+  font-family: 'Rubik', sans-serif; }
