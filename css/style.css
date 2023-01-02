@@ -268,3 +268,29 @@ header {
   font-weight: 400;
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif; }
+
+.photos4 {
+  position: absolute;
+  top: 30%;
+  left: 9.3%;
+  height: 152%;
+  background-color: #000; }
+
+.bugers {
+  height: 30%;
+  width: 295px;
+  margin-right: 15px; }
+
+.classic {
+  height: 30%;
+  width: 295px;
+  margin-right: 15px; }
+
+.tale {
+  height: 30%;
+  width: 293px;
+  margin-right: 17px; }
+
+.hbo {
+  height: 30%;
+  width: 293px; }
