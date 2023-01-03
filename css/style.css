@@ -393,3 +393,17 @@ header {
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif;
   text-decoration: none; }
+
+.cost-para {
+  position: absolute;
+  color: #a1a0a0;
+  text-align: center;
+  top: 102%;
+  left: 76%;
+  font-size: 55%;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  display: inline-block;
+  padding: 0 0;
+  box-sizing: border-box; }
