@@ -295,7 +295,8 @@ header {
 
 .hbo {
   height: 30%;
-  width: 293px; }
+  width: 293px;
+  filter: brightness(61%); }
 
 .past {
   position: absolute;
@@ -363,6 +364,30 @@ header {
   text-align: right;
   top: 12%;
   left: 52.8%;
+  font-size: 122%;
+  font-weight: 800;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.add-on {
+  position: absolute;
+  color: #fff;
+  text-align: right;
+  top: 5.6%;
+  left: 78.2%;
+  font-size: 85%;
+  font-weight: 600;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.premiums {
+  position: absolute;
+  color: #fff;
+  text-align: right;
+  top: 12%;
+  left: 78.2%;
   font-size: 122%;
   font-weight: 800;
   letter-spacing: normal;
