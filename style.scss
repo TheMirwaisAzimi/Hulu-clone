@@ -312,6 +312,7 @@ header{
     height:30%;
     width: 293px;
     margin-right: 17px;
+    filter: brightness(61%);
 }
 .hbo{
     height:30%;
@@ -367,6 +368,32 @@ header{
     font-family: 'Albert Sans', sans-serif;
     text-decoration: none;
 }
+.ground{
+    position:absolute;
+    color:#fff;
+    text-align: right;
+    top: 5.6%;
+    left:52.8%;
+    font-size: 85%;
+    font-weight: 600;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+    text-decoration: none;
+    
+}
+.originals{
+    position:absolute;
+    color:#fff;
+    text-align: right;
+    top: 12%;
+    left:52.8%;
+    font-size: 122%;
+    font-weight: 800;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+    text-decoration: none;
+}
+
 
 
 
