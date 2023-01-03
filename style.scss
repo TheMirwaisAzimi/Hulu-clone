@@ -299,12 +299,14 @@ header{
     height:30%;
     width: 295px;
     margin-right: 15px;
+    filter: brightness(60%);
     
 }
 .classic{
     height:30%;
     width: 295px;
     margin-right:15px;
+    filter: brightness(61%);
 }
 .tale{
     height:30%;
@@ -316,6 +318,30 @@ header{
     width: 293px;
 }
 
+.past{
+    position: absolute;
+    color:#fff;
+    text-align: left;
+    top: 5%;
+    left: 2%;
+    font-size: 85%;
+    font-weight: 600;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+    text-decoration: none;
+}
+.shows{
+    position: absolute;
+    color:#fff;
+    text-align: left;
+    top: 11.5%;
+    left: 2%;
+    font-size: 120%;
+    font-weight: 800;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+    text-decoration: none;
+}
 
 
 
