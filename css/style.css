@@ -319,3 +319,27 @@ header {
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif;
   text-decoration: none; }
+
+.new-classic {
+  position: absolute;
+  color: #fff;
+  text-align: left;
+  top: 5.6%;
+  left: 27.2%;
+  font-size: 85%;
+  font-weight: 600;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.movies {
+  position: absolute;
+  color: #fff;
+  text-align: left;
+  top: 12%;
+  left: 27.3%;
+  font-size: 120%;
+  font-weight: 800;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
