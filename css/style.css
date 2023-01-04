@@ -462,12 +462,12 @@ header {
 
 .channels {
   position: absolute;
-  color: #fff;
+  color: #cececf;
   text-align: right;
-  top: 85%;
-  left: 30.2%;
-  font-size: 122%;
-  font-weight: 800;
+  top: 85.4%;
+  left: 40.5%;
+  font-size: 85%;
+  font-weight: 600;
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif;
-  text-decoration: none; }
+  text-transform: uppercase; }
