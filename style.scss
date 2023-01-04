@@ -433,16 +433,12 @@ header{
     padding:0 0;
     box-sizing: border-box;
 }
-.better-text{
-    position: absolute;
-    top: 65%;
-}
 .with-ads{
     position: absolute;
     color: rgb(0, 208, 114);
     text-transform: uppercase;
     width: 1140px;
-    top: 8%;
+    top: 65.8%;
     text-align: center;
     left: 12.5%;
     font-size: 74%;
@@ -455,13 +451,53 @@ header{
         position: absolute;
         color: #fff;
         width: 1140px;
-        top: 30%;
+        top: 67.8%;
         text-align: center;
         left: 12.5%;
         font-size: 240%;
         font-weight: 700;
         letter-spacing: normal;
         font-family:'Rubik', sans-serif;
+}
+.get-85{
+    position: absolute;
+    color:#fff;
+    width: 1140px;
+    text-align: center;
+    top: 80%;
+    left: 12.9%;
+    font-size: 95%;
+    font-weight: 400;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+
+}
+.blackouts{
+    position: absolute;
+    color:rgb(161, 160, 160);
+    text-align: center;
+    top: 80%;
+    left: 30%;
+    font-size: 55%;
+    font-weight: 400;
+    letter-spacing:normal;
+    font-family: 'Albert Sans', sans-serif;
+    display: inline-block;
+    padding:0 0;
+    box-sizing: border-box;
+}
+.channels{
+    position:absolute;
+    color:#fff;
+    text-align: right;
+    top: 85%;
+    left:30.2%;
+    font-size: 122%;
+    font-weight: 800;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+    text-decoration: none;
+
 }
 
 
