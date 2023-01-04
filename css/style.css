@@ -471,3 +471,36 @@ header {
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif;
   text-transform: uppercase; }
+
+.arrow {
+  position: absolute;
+  box-sizing: border-box;
+  height: 13px;
+  width: 13px;
+  border-style: solid;
+  border-color: white;
+  border-width: 0px 1px 1px 0px;
+  transform: rotate(45deg);
+  transition: border-width 150ms ease-in-out;
+  top: 90.5%;
+  left: 49.5%;
+  border-bottom: 3px solid;
+  border-right: 3px solid;
+  color: #fff; }
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+@keyframes jumpInfinite {
+  0% {
+    margin-top: 0; }
+  50% {
+    margin-top: 15px; }
+  100% {
+    margin-top: 0; } }
+
+.arrow {
+  animation: jumpInfinite 2.5s infinite ease-in;
+  color: #fff; }
