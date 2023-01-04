@@ -425,3 +425,15 @@ header {
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif;
   word-spacing: normal; }
+
+.live-tv {
+  position: absolute;
+  color: #fff;
+  width: 1140px;
+  top: 30%;
+  text-align: center;
+  left: 12.5%;
+  font-size: 240%;
+  font-weight: 700;
+  letter-spacing: normal;
+  font-family: 'Rubik', sans-serif; }
