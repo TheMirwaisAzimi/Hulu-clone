@@ -410,4 +410,18 @@ header {
 
 .better-text {
   position: absolute;
-  top: 120%; }
+  top: 65%; }
+
+.with-ads {
+  position: absolute;
+  color: #00d072;
+  text-transform: uppercase;
+  width: 1140px;
+  top: 9%;
+  text-align: center;
+  left: 12.5%;
+  font-size: 75%;
+  font-weight: 600;
+  letter-spacing: normal;
+  font-family: 'Rubik', sans-serif;
+  word-spacing: normal; }
