@@ -8,7 +8,8 @@ html {
   font-family: 'Lato',Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size: 20px;
-  text-rendering: optimizeLegibility; }
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth; }
 
 header {
   background-image: url(img/Luca.jpg);
