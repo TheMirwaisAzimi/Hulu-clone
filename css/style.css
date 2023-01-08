@@ -559,3 +559,32 @@ header {
 
 .biggest-link:hover {
   color: #579376; }
+
+.LS-text {
+  position: absolute;
+  color: #fff;
+  width: 1140px;
+  text-align: left;
+  left: 12.5%;
+  font-size: 240%;
+  font-weight: 700;
+  letter-spacing: normal;
+  font-family: 'Rubik', sans-serif;
+  top: 338.4%;
+  left: 17.8%; }
+
+.games-text {
+  position: absolute;
+  color: #fff;
+  width: 1140px;
+  text-align: left;
+  left: 12.5%;
+  font-size: 240%;
+  font-weight: 700;
+  letter-spacing: normal;
+  top: 348.5%;
+  left: 17.8%;
+  font-size: 95%;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif; }
