@@ -512,3 +512,50 @@ header {
   background-position: center;
   width: 100%;
   filter: brightness(70%); }
+
+.live-link {
+  position: absolute;
+  color: white;
+  text-align: right;
+  top: 329%;
+  left: 17.9%;
+  font-size: 61%;
+  font-weight: 900;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: solid 5px;
+  padding-bottom: 15px; }
+
+.breaking-link {
+  position: absolute;
+  color: #759787;
+  text-align: right;
+  top: 328.8%;
+  left: 25.5%;
+  font-size: 62%;
+  font-weight: 900;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-transform: uppercase;
+  text-decoration: none; }
+
+.biggest-link {
+  position: absolute;
+  color: #799e8d;
+  text-align: right;
+  top: 329%;
+  left: 35%;
+  font-size: 62%;
+  font-weight: 900;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  text-transform: uppercase;
+  text-decoration: none; }
+
+.breaking-link:hover {
+  color: #496859; }
+
+.biggest-link:hover {
+  color: #579376; }
