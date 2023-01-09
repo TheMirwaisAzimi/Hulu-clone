@@ -593,7 +593,6 @@ header {
   position: absolute;
   height: 55px;
   width: auto;
-  margin-right: 17px;
   top: 360.5%;
   left: 17.85%; }
 
@@ -601,7 +600,6 @@ header {
   position: absolute;
   height: 26.4px;
   width: auto;
-  margin-right: 17px;
   top: 362.5%;
   left: 18.1%; }
 
@@ -609,7 +607,6 @@ header {
   position: absolute;
   height: 55px;
   width: auto;
-  margin-right: 17px;
   top: 360.5%;
   left: 22.8%; }
 
@@ -617,6 +614,33 @@ header {
   position: absolute;
   height: 26.4px;
   width: auto;
-  margin-right: 17px;
   top: 362.5%;
   left: 23.1%; }
+
+.white-circle3 {
+  position: absolute;
+  height: 55px;
+  width: auto;
+  top: 360.5%;
+  left: 27.8%; }
+
+.FS1 {
+  position: absolute;
+  height: 26.4px;
+  width: auto;
+  top: 362.5%;
+  left: 28.1%; }
+
+.white-circle4 {
+  position: absolute;
+  height: 54px;
+  width: auto;
+  left: 32.7%;
+  top: 361%; }
+
+.NFL {
+  position: absolute;
+  height: 26.4px;
+  width: auto;
+  top: 362.5%;
+  left: 33%; }
