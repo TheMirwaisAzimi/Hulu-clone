@@ -685,7 +685,7 @@ header {
 
 .select-text {
   position: absolute;
-  top: 6%;
+  top: 7.2%;
   font-size: 240%;
   font-weight: 700;
   letter-spacing: normal;
@@ -696,8 +696,8 @@ header {
   position: absolute;
   width: 1140px;
   text-align: center;
-  top: 12.7%;
-  left: 12.7%;
+  top: 14%;
+  left: 12.5%;
   font-size: 95%;
   font-weight: 400;
   letter-spacing: normal;
@@ -707,6 +707,20 @@ header {
   position: relative;
   height: 0.5px;
   background: #575759;
-  top: 20.7%;
+  top: 21.7%;
   width: 64%;
   left: 18%; }
+
+.most {
+  position: absolute;
+  padding: 11px 30px;
+  background-color: #1ce783;
+  top: 445%;
+  font-size: 9px;
+  text-align: center;
+  left: 49.5%;
+  border-radius: 200px;
+  display: inline-block;
+  color: #000;
+  font-weight: 500;
+  letter-spacing: 0.5px; }
