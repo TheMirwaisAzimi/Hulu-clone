@@ -717,3 +717,45 @@ header{
     box-sizing: border-box;
     
 }
+.bgc5{
+    position:absolute;
+    background-color: rgb(6, 6, 6);
+    height: 150%;
+    top: 3084px;
+    width: 100%;
+}
+.plan1{
+    color: #fff;
+    text-align: center;
+}
+.select-text{
+    position: absolute;
+    top: 6%;
+    font-size: 240%;
+    font-weight: 700;
+    letter-spacing: normal;
+    font-family:'Rubik', sans-serif;
+    left:37.6%;
+}
+.fees-text{
+    position: absolute;
+    width: 1140px;
+    text-align: center;
+    top: 12.7%;
+    left: 12.7%;
+    font-size: 95%;
+    font-weight: 400;
+    letter-spacing: normal;
+    font-family: 'Albert Sans', sans-serif;
+
+
+}
+.line-1 {
+    position:relative;
+    height:0.5px;
+    background: rgb(87, 87, 89);
+    top: 20.7%;
+    width: 64%;
+    left: 18%;
+
+  }
