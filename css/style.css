@@ -724,11 +724,31 @@ header {
 
 input {
   -webkit-appearance: none;
-  position: relative;
+  position: absolute;
   width: 50px;
-  height: 30px;
+  height: 32px;
   border-radius: 25px;
-  background-color: #ccc; }
+  background-color: #424957;
+  transition: background 0.3s;
+  outline: none;
+  cursor: pointer;
+  top: 500%; }
+
+input::after {
+  content: '';
+  position: absolute;
+  transform: translate(-50% -50%);
+  border-radius: 50%;
+  height: 32px;
+  width: 32px;
+  background-color: white;
+  transition: left .3s; }
+
+input:checked {
+  background-color: #1ce783; }
+
+input:checked::after {
+  left: 50%; }
 
 .most {
   position: absolute;
