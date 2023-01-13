@@ -718,7 +718,7 @@ header {
   text-align: left;
   top: 452.5%;
   left: 20.5%;
-  font-size: 74%;
+  font-size: 71%;
   font-weight: 600;
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif; }
@@ -733,7 +733,7 @@ input {
   transition: background 0.3s;
   outline: none;
   cursor: pointer;
-  top: 452.5%;
+  top: 452.6%;
   left: 26.8%; }
 
 input::after {
@@ -751,6 +751,17 @@ input:checked {
 
 input:checked::after {
   left: 50%; }
+
+.save {
+  position: absolute;
+  color: #fff;
+  text-align: left;
+  top: 452.6%;
+  left: 31.3%;
+  font-size: 71%;
+  font-weight: 600;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif; }
 
 .most {
   position: absolute;
