@@ -884,6 +884,7 @@ header{
     color:black;
     border-radius: 5px;
     background-color:#fff;
+    transition: background-color 0.5s;
   }
   .nodays{
     position: absolute;
@@ -908,15 +909,37 @@ header{
     font-family: 'Albert Sans', sans-serif;
 
   }
-  .per-months-4{
+  .per-months-2{
     position: absolute;
-    color: #fff;
-    top: 452.6%;
-    left: 31.3%;
-    font-size: 71%;
-    font-weight: 600;
+    width: 258px;
+    text-align: center;
+    top: 459.5%;
+    left: 64%;
+    font-size: 76%;
+    font-weight: 700;
     letter-spacing: normal;
     font-family: 'Albert Sans', sans-serif;
-
+    text-decoration: none;
+    border: 2px solid;
+    padding:15px 6px;
+    border-radius: 5px;
+    color:black;
+    border-radius: 5px;
+    background-color:#fff;
+    transition: background-color 0.5s;
+  }
+  .per-months-1:hover{
+    background-color: rgb(206, 206, 207);
+}
+.per-months-2:hover{
+    background-color: rgb(206, 206, 207);
+}
+.line-2 {
+    position:absolute;
+    height:0.5px;
+    background: rgb(87, 87, 89);
+    top: 470.7%;
+    width: 64%;
+    left: 18%;
 
   }
