@@ -1000,3 +1000,10 @@ input:checked::after {
   top: 494.3%;
   width: 64%;
   left: 18%; }
+
+.t {
+  position: absolute;
+  color: #fff;
+  top: 489.3%;
+  font-size: 9px;
+  left: 36.3%; }
