@@ -966,3 +966,37 @@ input:checked::after {
   top: 486.3%;
   width: 64%;
   left: 18%; }
+
+.Most-new {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 489.3%;
+  left: 18%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check3 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 489.3%;
+  left: 53.5%; }
+
+.check4 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 489.3%;
+  left: 72%; }
+
+.line-5 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 494.3%;
+  width: 64%;
+  left: 18%; }
