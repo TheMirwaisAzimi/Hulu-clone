@@ -1270,3 +1270,38 @@ input:checked::after {
   width: 13px;
   left: 53.6%;
   color: #b6bed0; }
+
+.t2 {
+  position: absolute;
+  color: #fff;
+  top: 546%;
+  font-size: 6px;
+  left: 18.3%; }
+
+.For-current-season {
+  position: absolute;
+  color: white;
+  text-align: center;
+  top: 546%;
+  left: 18.6%;
+  font-size: 55%;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  display: inline-block;
+  padding: 0 0;
+  box-sizing: border-box; }
+
+.Switches-from-Live {
+  position: absolute;
+  color: white;
+  text-align: center;
+  top: 548%;
+  left: 18.5%;
+  font-size: 55%;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-family: 'Albert Sans', sans-serif;
+  display: inline-block;
+  padding: 0 0;
+  box-sizing: border-box; }
