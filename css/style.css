@@ -1150,3 +1150,53 @@ input:checked::after {
   top: 528.8%;
   width: 64%;
   left: 18%; }
+
+.No-ads-in {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 531.6%;
+  left: 18%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check13 {
+  position: absolute;
+  top: 531.6%;
+  left: 53.5%;
+  color: #fff;
+  width: 50px; }
+
+.check14 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 531.6%;
+  left: 72%; }
+
+.line-10 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 536.8%;
+  width: 64%;
+  left: 18%; }
+
+.middle3 {
+  position: absolute;
+  top: 531.8%;
+  left: 30.3%;
+  color: #fff;
+  font-size: 15px; }
+
+.line-11 {
+  position: absolute;
+  height: 2px;
+  background: #fff;
+  top: 532.8%;
+  width: 13px;
+  left: 53.6%;
+  color: #b6bed0; }
