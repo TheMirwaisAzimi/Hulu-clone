@@ -1394,8 +1394,110 @@ input:checked::after {
   color: white;
   text-align: left;
   top: 583.6%;
-  left: 22.2%;
-  font-size: 30%;
+  left: 22%;
+  font-size: 73%;
   font-weight: 400;
   letter-spacing: 0.01em;
   font-family: 'Albert Sans', sans-serif; }
+
+.CINEMAX {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 591.6%;
+  left: 18%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check18 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 591.6%;
+  left: 53.5%; }
+
+.check19 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 591.6%;
+  left: 72%; }
+
+.line-16 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 597%;
+  width: 64%;
+  left: 18%; }
+
+.SHOWTIME {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 599.6%;
+  left: 18%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check20 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 599.6%;
+  left: 53.5%; }
+
+.check21 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 599.6%;
+  left: 72%; }
+
+.line-17 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 605%;
+  width: 64%;
+  left: 18%; }
+
+.STARZ {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 607.6%;
+  left: 18%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check22 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 607.6%;
+  left: 53.5%; }
+
+.check23 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 607.6%;
+  left: 72%; }
+
+.line-18 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 613%;
+  width: 64%;
+  left: 18%; }
