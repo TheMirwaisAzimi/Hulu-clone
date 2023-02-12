@@ -1394,9 +1394,9 @@ input:checked::after {
   color: white;
   text-align: left;
   top: 583.6%;
-  left: 22%;
-  font-size: 73%;
-  font-weight: 400;
+  left: 22.2%;
+  font-size: 35%;
+  font-weight: 600;
   letter-spacing: 0.01em;
   font-family: 'Albert Sans', sans-serif; }
 
