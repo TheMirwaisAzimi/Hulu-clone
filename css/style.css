@@ -1312,7 +1312,7 @@ input:checked::after {
 
 label {
   display: block;
-  margin: 185px 0 0;
+  margin: 20px 0 0;
   border-bottom: 1px solid green;
   position: absolute; }
 
@@ -1329,8 +1329,7 @@ input {
   background: red;
   opacity: 1;
   overflow: hidden;
-  transition: opacity 1.5s linear, max-height 1.5s linear;
-  position: absolute; }
+  transition: opacity 1.5s linear, max-height 1.5s linear; }
 
 .hide p {
   padding: 10px;
@@ -1340,6 +1339,10 @@ input {
   opacity: 0;
   max-height: 0;
   border: none; }
+
+.follow {
+  border-top: 1px solid blue;
+  margin: 0; }
 
 .ex1 {
   position: absolute;
