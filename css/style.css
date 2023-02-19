@@ -1324,7 +1324,6 @@ input {
   left: -999em; }
 
 .hide {
-  width: 1140px;
   border: 1px solid #000;
   background: red;
   opacity: 1;
