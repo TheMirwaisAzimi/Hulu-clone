@@ -1328,7 +1328,8 @@ input {
   background: red;
   opacity: 1;
   overflow: hidden;
-  transition: opacity 1.5s linear, max-height 1.5s linear; }
+  transition: opacity 1.5s linear, max-height 1.5s linear;
+  position: relative; }
 
 .hide p {
   padding: 10px;
@@ -1345,5 +1346,5 @@ input {
 
 .ex1 {
   position: absolute;
-  top: 613%;
+  top: 550%;
   left: 18%; }
