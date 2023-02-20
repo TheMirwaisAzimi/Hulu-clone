@@ -1403,7 +1403,7 @@ input {
   
   overflow: hidden;
   
-  height: 300%;
+  height: 600%;
   width: 600%;
 }
 .hide p {
@@ -1502,7 +1502,7 @@ input {
   position:absolute;
   height:0.5px;
   background: rgb(87, 87, 89);
-  top: 290%;
+  top: 288%;
   width: 1045%;
   left: 10%;
 }
@@ -1518,6 +1518,41 @@ input {
   letter-spacing:0.01em;
   font-family: 'Albert Sans', sans-serif;
 
+}
+.CINEMAX{
+  position: absolute;
+  width: 1140px;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  top:300.6%;
+  left: 3%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing:0.01em;
+  font-family: 'Albert Sans', sans-serif;
+
+}
+.check18{
+  position: absolute;
+  height: 17px;
+  width:auto;
+  top: 315.6%;
+  left: 590.5%;
+}
+.check19{
+  position: absolute;
+  height: 17px;
+  width:auto;
+  top: 315.6%;
+  left: 895%;
+}
+.line-16 {
+  position:absolute;
+  height:0.5px;
+  background: rgb(87, 87, 89);
+  top: 367%;
+  width: 1045%;
+  left: 10%;
 }
 
  
