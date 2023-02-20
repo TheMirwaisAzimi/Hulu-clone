@@ -1384,7 +1384,8 @@ label {
   display: block;
   margin: 20px 0 0;
   border-bottom: 1px solid green;
-  position: absolute;
+  
+  
 }
 label:hover {
   text-decoration: underline;
@@ -1396,12 +1397,14 @@ input {
 .hide {
   width: 50%;
   border: 1px solid #000;
-  background: red;
-  max-height: 99em;
+  background: rgb(0, 0, 0);
+ 
   opacity: 1;
-  height: auto;
+  
   overflow: hidden;
-  transition: opacity 1.5s linear, max-height 1.5s linear;
+  
+  height: 300%;
+  width: 600%;
 }
 .hide p {
   padding: 10px;
@@ -1415,13 +1418,13 @@ input {
 
 .ex1{
   position:absolute;
-  top: 565%;
+  top: 560%;
   left: 17%;
   background-color: #000000; 
   height: 10%; 
 }
 .Available-Add-ons{
-  
+  position: absolute;
   color: #fff;
   width: 1140px;
   text-align: left;
@@ -1429,36 +1432,90 @@ input {
   font-weight: 700;
   letter-spacing: 0.01em;
   font-family:'Rubik', sans-serif;
-  top: 10.4%;
+  top: 40%;
+  
   
   
 }
 .Add-ons-available{
-    
-   
+  position: absolute;
   color: rgb(255, 255, 255);
   text-align: left;
-  
-  left: 18%;
+  width: 1140px;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing:normal;
+  font-family: 'Albert Sans', sans-serif;
+  top: 115%;
+
+}
+.Add-them-up{
+  position: absolute; 
+  color: rgb(255, 255, 255);
+  text-align: left;
+  top: 145%;
+  width: 1140px;
   font-size: 73%;
   font-weight: 400;
   letter-spacing:normal;
   font-family: 'Albert Sans', sans-serif;
 
 }
-.Add-them-up{
-    
-  position: absolute; 
+.line-14 {
+  position:absolute;
+  height:0.5px;
+  background: rgb(87, 87, 89);
+  top: 208%;
+  width:1045%;
+  left: 10%;
+  
+}
+
+.HBO-Max{
+  position: absolute;
+  width: 1140px;
   color: rgb(255, 255, 255);
   text-align: left;
-  top: 20%;
-  
-  
-  
-  
+  top: 222.6%;
+  left: 3%;
   font-size: 73%;
   font-weight: 400;
-  letter-spacing:normal;
+  letter-spacing:0.01em;
+  font-family: 'Albert Sans', sans-serif;
+
+}
+.check16{
+  position: absolute;
+  height: 17px;
+  width:auto;
+  top: 238.6%;
+  left: 590%;
+}
+.check17{
+  position: absolute;
+  height: 17px;
+  width:auto;
+  top: 238.6%;
+  left: 895%;
+}
+.line-15 {
+  position:absolute;
+  height:0.5px;
+  background: rgb(87, 87, 89);
+  top: 290%;
+  width: 1045%;
+  left: 10%;
+}
+.TM-HBO-Max{
+  position: absolute;
+  width: 1140px;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  top: 224.6%;
+  left: 70.2%;
+  font-size: 35%;
+  font-weight: 600;
+  letter-spacing:0.01em;
   font-family: 'Albert Sans', sans-serif;
 
 }
