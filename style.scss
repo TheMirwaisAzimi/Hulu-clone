@@ -1382,14 +1382,19 @@ header{
 
 label {
   display: block;
-  margin: 20px 0 0;
-  border-bottom: 1px solid green;
+  
+  color: #fff;
+  position: relative;
+  left: 416%;
+  top: -47%;
+  font-size: 17px;
+  letter-spacing: 0.01rem;
+  
+  
   
   
 }
-label:hover {
-  text-decoration: underline;
-}
+
 input {
   position: absolute;
   left: -999em;
@@ -1466,7 +1471,7 @@ input {
   height:0.5px;
   background: rgb(87, 87, 89);
   top: 208%;
-  width:1045%;
+  width:960%;
   left: 10%;
   
 }
@@ -1489,21 +1494,21 @@ input {
   height: 17px;
   width:auto;
   top: 238.6%;
-  left: 590%;
+  left: 528%;
 }
 .check17{
   position: absolute;
   height: 17px;
   width:auto;
   top: 238.6%;
-  left: 895%;
+  left: 800%;
 }
 .line-15 {
   position:absolute;
   height:0.5px;
   background: rgb(87, 87, 89);
   top: 288%;
-  width: 1045%;
+  width: 960%;
   left: 10%;
 }
 .TM-HBO-Max{
@@ -1537,21 +1542,21 @@ input {
   height: 17px;
   width:auto;
   top: 315.6%;
-  left: 590.5%;
+  left: 528%;
 }
 .check19{
   position: absolute;
   height: 17px;
   width:auto;
   top: 315.6%;
-  left: 895%;
+  left: 800%;
 }
 .line-16 {
   position:absolute;
   height:0.5px;
   background: rgb(87, 87, 89);
   top: 367%;
-  width: 1045%;
+  width: 960%;
   left: 10%;
 }
 .SHOWTIME{
@@ -1572,21 +1577,21 @@ input {
   height: 17px;
   width:auto;
   top: 393.6%;
-  left: 590.5%;
+  left: 528%;
 }
 .check21{
   position: absolute;
   height: 17px;
   width:auto;
   top: 393.6%;
-  left: 895%;
+  left: 800%;
 }
 .line-17 {
   position:absolute;
   height:0.5px;
   background: rgb(87, 87, 89);
   top: 445%;
-  width: 1045%;
+  width: 960%;
   left: 10%;
 }
 .STARZ{
@@ -1607,22 +1612,29 @@ input {
   height: 17px;
   width:auto;
   top: 471.6%;
-  left: 590.5%;
+  left: 528%;
 }
 .check23{
   position: absolute;
   height: 17px;
   width:auto;
   top: 471.6%;
-  left: 895%;
+  left: 800%;
 }
 .line-18 {
   position:absolute;
   height:0.5px;
   background: rgb(87, 87, 89);
   top: 523%;
-  width: 1045%;
+  width: 960%;
   left: 10%;
 }
-
+.line-19 {
+  position:absolute;
+  height:0.5px;
+  background: rgb(87, 87, 89);
+  top: 615%;
+  width: 960%;
+  left: 10%;
+}
  
