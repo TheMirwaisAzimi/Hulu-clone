@@ -1501,3 +1501,37 @@ input {
   top: 445%;
   width: 1045%;
   left: 10%; }
+
+.STARZ {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 456.6%;
+  left: 3%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check22 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 471.6%;
+  left: 590.5%; }
+
+.check23 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 471.6%;
+  left: 895%; }
+
+.line-18 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 523%;
+  width: 1045%;
+  left: 10%; }
