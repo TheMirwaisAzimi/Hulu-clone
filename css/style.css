@@ -1308,7 +1308,7 @@ input:checked::after {
 
 .advertismentss {
   background-color: #000;
-  height: 3000px; }
+  height: 2850px; }
 
 label {
   display: block;
@@ -1538,9 +1538,17 @@ input {
   left: 10%; }
 
 .line-19 {
-  position: absolute;
+  position: static;
   height: 0.5px;
   background: #575759;
   top: 615%;
   width: 960%;
   left: 10%; }
+
+.white-footer {
+  position: absolute;
+  height: 420px;
+  background: #e8eaed;
+  top: 680%;
+  width: 1457%;
+  left: -250%; }
