@@ -1467,3 +1467,37 @@ input {
   top: 367%;
   width: 1045%;
   left: 10%; }
+
+.SHOWTIME {
+  position: absolute;
+  width: 1140px;
+  color: white;
+  text-align: left;
+  top: 378.6%;
+  left: 3%;
+  font-size: 73%;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif; }
+
+.check20 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 393.6%;
+  left: 590.5%; }
+
+.check21 {
+  position: absolute;
+  height: 17px;
+  width: auto;
+  top: 393.6%;
+  left: 895%; }
+
+.line-17 {
+  position: absolute;
+  height: 0.5px;
+  background: #575759;
+  top: 445%;
+  width: 1045%;
+  left: 10%; }
