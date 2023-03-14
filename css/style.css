@@ -1552,3 +1552,6 @@ input {
   top: 680%;
   width: 1457%;
   left: -250%; }
+
+.tog {
+  cursor: pointer; }
