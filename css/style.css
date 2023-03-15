@@ -1312,10 +1312,10 @@ input:checked::after {
 
 label {
   display: block;
-  color: #fff;
+  color: #ffffff;
   position: relative;
   left: 416%;
-  top: -47%;
+  top: 40%;
   font-size: 17px;
   letter-spacing: 0.01rem; }
 
@@ -1530,20 +1530,23 @@ input {
   left: 800%; }
 
 .line-18 {
-  position: absolute;
+  position: static;
   height: 0.5px;
   background: #575759;
-  top: 523%;
+  top: 490%;
   width: 960%;
-  left: 10%; }
+  left: 11%;
+  margin-top: -50%;
+  margin-left: 10%; }
 
 .line-19 {
   position: static;
   height: 0.5px;
   background: #575759;
-  top: 615%;
+  margin-top: 50px;
   width: 960%;
-  left: 10%; }
+  left: 10%;
+  margin-left: 10%; }
 
 .white-footer {
   position: absolute;
