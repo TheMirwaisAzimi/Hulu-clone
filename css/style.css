@@ -1308,7 +1308,7 @@ input:checked::after {
 
 .advertismentss {
   background-color: #000;
-  height: 2850px; }
+  height: 2466px; }
 
 label {
   display: block;
@@ -1558,3 +1558,11 @@ input {
 
 .tog {
   cursor: pointer; }
+
+.footer {
+  position: static;
+  height: 450px;
+  background: #e8eaed;
+  margin-top: 50px;
+  width: 1455%;
+  margin-left: -248%; }

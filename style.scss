@@ -1377,7 +1377,7 @@ header{
 
 .advertismentss{
     background-color: #000;
-    height: 2850px;
+    height: 2466px;
 }
 
 label {
@@ -1653,4 +1653,13 @@ input {
  
 .tog{
   cursor: pointer;
+}
+.footer {
+  position:static;
+  height:450px;
+  background: rgb(232,234,237);
+  margin-top: 50px;
+  width: 1455%;
+  
+  margin-left: -248%;
 }
