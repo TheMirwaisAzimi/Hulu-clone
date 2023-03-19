@@ -2281,20 +2281,25 @@ input {
 }
 
 
-
-
-
-
-/******************
 .line-20 {
-  position:absolute;
-  height:15px;
-  background: rgb(35, 1, 255);
-  top: 1088%;
-  width: 960%;
-  left: 10%;
+  position:relative;
+  height:1px;
+  background: rgb(217, 220, 226);
+  width: 78%;
+  top: -120%;
+  left: 11%;
+  
 }
-****/
+/*****.line-20 {
+  position:relative;
+  height:1px;
+  background: rgb(217, 220, 226);
+  width: 80%;
+  top: -120%;
+  
+}
+*********/
+
 
 
 
