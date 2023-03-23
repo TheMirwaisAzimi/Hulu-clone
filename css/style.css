@@ -2025,12 +2025,119 @@ input {
   top: -120%;
   left: 11%; }
 
-/*****.line-20 {
-  position:relative;
-  height:1px;
-  background: rgb(217, 220, 226);
-  width: 80%;
-  top: -120%;
-  
-}
-*********/
+.LLC {
+  position: relative;
+  top: -107.5%; }
+
+.LLChuhu {
+  padding-left: 23.4%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.abbo {
+  position: relative;
+  top: -111%; }
+
+.abboubt {
+  padding-left: 31.7%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.tofuse {
+  position: relative;
+  top: -114%; }
+
+.tofuseus {
+  padding-left: 36.7%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.priceee {
+  position: relative;
+  top: -117%; }
+
+.priceeey {
+  padding-left: 42.7%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.donotsell {
+  position: relative;
+  top: -120%; }
+
+.donotsellper {
+  padding-left: 49%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.myperso {
+  position: relative;
+  top: -123.2%; }
+
+.mypersonal {
+  padding-left: 53.2%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.informee {
+  position: relative;
+  top: -126.3%; }
+
+.informeeti {
+  padding-left: 57.8%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.yocal {
+  position: relative;
+  top: -128.3%; }
+
+.yocaling {
+  padding-left: 62.8%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
+
+.priva {
+  position: relative;
+  top: -131.3%; }
+
+.privarig {
+  padding-left: 68%;
+  color: #586174;
+  font-size: 58%;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: 'Albert Sans', sans-serif;
+  text-decoration: none; }
