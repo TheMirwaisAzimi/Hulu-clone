@@ -723,7 +723,7 @@ header {
   letter-spacing: normal;
   font-family: 'Albert Sans', sans-serif; }
 
-input {
+.remisnotset {
   -webkit-appearance: none;
   position: absolute;
   width: 58px;
